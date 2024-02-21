@@ -1,0 +1,7 @@
+C:\Users\s231477\OneDrive - The Academy of Interactive Entertainment Ltd\AieC#\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\s231477\OneDrive - The Academy of Interactive Entertainment Ltd\AieC#\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\s231477\OneDrive - The Academy of Interactive Entertainment Ltd\AieC#\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\s231477\OneDrive - The Academy of Interactive Entertainment Ltd\AieC#\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\s231477\OneDrive - The Academy of Interactive Entertainment Ltd\AieC#\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\s231477\OneDrive - The Academy of Interactive Entertainment Ltd\AieC#\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\s231477\OneDrive - The Academy of Interactive Entertainment Ltd\AieC#\Arrays\Arrays\obj\Debug\Arrays.pdb
