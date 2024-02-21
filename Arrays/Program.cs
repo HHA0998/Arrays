@@ -20,6 +20,11 @@ namespace Arrays
             Console.WriteLine(intList[1]);
             Console.WriteLine(intList[2]);
             Console.WriteLine(intList[3]);
+            intList.Remove(30);
+            Console.WriteLine("\n" + intList[0]);
+            Console.WriteLine(intList[1]);
+            Console.WriteLine(intList[2]);
+            // error! Console.WriteLine(intList[3]);
             Console.ReadKey();
 
             /*
