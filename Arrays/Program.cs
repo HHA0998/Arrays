@@ -12,19 +12,24 @@ namespace Arrays
         {
             List<int> intList = new List<int>();
 
-            intList.Add(20);
-            intList.Add(30);
-            intList.Add(23);
-            intList.Add(33);
+            intList.Add(74);
+            intList.Add(333);
+            intList.Add(2);
+            intList.Add(98);
             Console.WriteLine(intList[0]);
             Console.WriteLine(intList[1]);
             Console.WriteLine(intList[2]);
-            Console.WriteLine(intList[3]);
-            intList.Remove(30);
-            Console.WriteLine("\n" + intList[0]);
+            Console.WriteLine(intList[3] + "\n");
+            intList.Sort();
+            Console.WriteLine(intList[0]);
             Console.WriteLine(intList[1]);
             Console.WriteLine(intList[2]);
-            // error! Console.WriteLine(intList[3]);
+            Console.WriteLine(intList[3] + "\n");
+            intList.Reverse();
+            Console.WriteLine(intList[0]);
+            Console.WriteLine(intList[1]);
+            Console.WriteLine(intList[2]);
+            Console.WriteLine(intList[3] + "\n");
             Console.ReadKey();
 
             /*
